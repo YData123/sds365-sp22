@@ -15,7 +15,7 @@ dependencies:
   - python=3.8
   - scikit-learn
   - seaborn=0.11
-  - tensorflow=2.4
+  - tensorflow
   - tqdm
   - keras
   - pytorch
